@@ -13,7 +13,7 @@ class IconApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.yellow,
+          backgroundColor: Colors.yellow[700],
           title: const Text(
             'My Profile',
             style: TextStyle(fontWeight: FontWeight.bold),
